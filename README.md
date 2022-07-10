@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently learning on Full stack web devlopment
 
+### Recent Projects
+- [Product preview card component](https://adityakadali.github.io/Product-preview-card-component/)
+
 <!--
 **Adityakadali/adityakadali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
