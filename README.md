@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently learning on Full stack web devlopment
-- 
 
 <!--
 **Adityakadali/adityakadali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
