@@ -4,6 +4,7 @@
 
 ### Recent Projects
 - [Product preview card component](https://adityakadali.github.io/Product-preview-card-component/)
+- Starbucks Homepage Clone **[Source](https://github.com/Adityakadali/starbucks-clone)/[Live](https://adityakadali.github.io/starbucks-clone/)
 
 <!--
 **Adityakadali/adityakadali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
