@@ -14,6 +14,8 @@
 
 - [HTML & CSS for mordern web development](https://courses.learncodeonline.in/learn/certificate/299832-98072)
 
+- [Git & Github](https://courses.learncodeonline.in/learn/certificate/299832-24027)
+
 ## Recent Projects
 
 - Advice generator app **[Source](https://github.com/Adityakadali/Advice-generator-app) / [Live](https://adityakadali.github.io/Advice-generator-app/)**
