@@ -1,8 +1,28 @@
-## Hello World 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="250"/>
+  
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/aditya-kadali/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+   <a href="https://www.youtube.com/channel/UC5MQYZemsyfMgJBMpPs3fqg/videos">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  
+  <a href="https://twitter.com/adityakadali">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityakadali&theme=onedark_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
-- 🔭 I’m currently learning on Full stack web devlopment
+## About Me:
+- I am a Fullstack JavaScript Web Developer
 
 ## Skills:
 
